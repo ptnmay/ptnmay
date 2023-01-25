@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding front-end, arts, music, dance
 - 🌱 I’m currently learning human languege and computer languege
 - 💞️ I’m looking to collaborate on ..?
-- 📫 How to reach me on discord -> MAY #6353
+- 📫 How to reach me on discord -> MAVIS#6353
 
 
 <!---
