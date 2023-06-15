@@ -1,7 +1,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/psaeyang?1337Badge=off&UM6P=off" alt="psaeyang's 42 stats" /></a>
 
 - 👋 Hi, I’m MAY
-- 👀 I’m interested in coding front-end, arts, music, dance
+- 👀 I’m interested in coding front-end, arts
 - 🌱 I’m currently learning human languege and computer languege
 - 💞️ I’m looking to collaborate on ..?
 - 📫 How to reach me on discord -> MAVIS#6353
